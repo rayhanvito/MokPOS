@@ -575,16 +575,16 @@ chore: add go_router and configure initial routes
 - [x] Barcode scanner screen
 
 # Batch 3 — CRM, Employees, Settings, SaaS
-- [ ] Customer list screen
-- [ ] Customer detail screen
-- [ ] Employee list screen
-- [ ] Employee performance screen
-- [ ] Profile screen
-- [ ] Store settings screen
-- [ ] Receipt settings screen
-- [ ] Payment method settings screen
-- [ ] Subscription screen
-- [ ] Notification settings screen
+- [x] Customer list screen
+- [x] Customer detail screen
+- [x] Employee list screen
+- [x] Employee performance screen
+- [x] Profile screen
+- [x] Store settings screen
+- [x] Receipt settings screen
+- [x] Payment method settings screen
+- [x] Subscription screen
+- [x] Notification settings screen
 ```
 
 ---
